@@ -1,8 +1,7 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Hi, I'm Michelle, a library technologist based in sunny California. Welcome to my professional blog, where I share my thoughts on library-related topics and discuss my own experiences within the library profession.

@@ -21,12 +21,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Michelle Navarro ePortfolio                          # the main title
+title: Michelle   Your Future Librarian                         # the main title
 
-tagline: TBD   # it will display as the sub-title
+tagline: ..Cats, Coffee, Cataloging... and the pursuit of organizing the world's knowledge without going insane...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This portfolio follows my scholastic experience of a Master's of Library Science degree.
+  TBD
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://minniemich.github.io/'
