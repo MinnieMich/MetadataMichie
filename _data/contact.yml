@@ -5,8 +5,9 @@
   icon: 'fab fa-github'
   url: 'https://github.com/MinnieMich/MetadataMichie'
 -
-  #type: twitter
-  #icon: 'fab fa-twitter'
+  type: twitter
+  icon: 'fab fa-twitter'
+  url: 'https://twitter.com/elcaminocollege'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -15,6 +16,10 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/michelle-sharla'
 
 # Uncomment and complete the url below to enable more contact options
 # -
